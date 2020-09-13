@@ -1,0 +1,26 @@
+footer{
+   .social{
+       text-align: center;
+       padding: 20px 0;
+       a{
+        padding: 10px;
+        display: inline-block;
+        margin: 0 20px;
+        width: 50px;
+        font-size: 22px;
+        border-radius: 100px;
+        &:hover{
+            text-decoration: none;
+        }
+        &.facebook{
+            background: #3b5998;
+        }
+        &.twitter{
+            background: #55acee;
+        }
+        &.youtube{
+            background: #cd201f;
+        }
+    }
+   }
+}
