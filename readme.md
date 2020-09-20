@@ -14,3 +14,5 @@ El proyecto **Startup** es una página web para ofrecer los servicios de una Sta
 - Oswaldo Hernández
 
 
+
+![screenshot of gh pr status](https://github.com/V0100LNET/Startup/blob/master/img/UI-Startup.png)
